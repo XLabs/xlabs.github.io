@@ -1,0 +1,4 @@
+var dir_fc27ac0c46f6fcbbd0cbd608ec2e7d29 =
+[
+    [ "GesturesContentViewRenderer.cs", "_x_labs_8_forms_8_droid_2_controls_2_gestures_content_view_2_gestures_content_view_renderer_8cs.html", "_x_labs_8_forms_8_droid_2_controls_2_gestures_content_view_2_gestures_content_view_renderer_8cs" ]
+];

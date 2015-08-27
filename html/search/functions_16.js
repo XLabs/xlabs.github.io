@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['xamarin',['Xamarin',['../class_x_labs_1_1_forms_1_1_controls_1_1_hybrid_web_view_renderer_1_1_xamarin.html#a85fa0a8d9bf92b042e44812d0c6e49bb',1,'XLabs::Forms::Controls::HybridWebViewRenderer::Xamarin']]],
+  ['xformsapp',['XFormsApp',['../class_x_labs_1_1_platform_1_1_mvvm_1_1_x_forms_app.html#abef65b4e941da3df90466fafa6500a59',1,'XLabs.Platform.Mvvm.XFormsApp.XFormsApp()'],['../class_x_labs_1_1_platform_1_1_mvvm_1_1_x_forms_app.html#ac6523eaf7e5b22eec3c424493a661aff',1,'XLabs.Platform.Mvvm.XFormsApp.XFormsApp(TApp context)']]],
+  ['xformsappdroid',['XFormsAppDroid',['../class_x_labs_1_1_forms_1_1_x_forms_app_droid.html#a97374017e7a7ecf969fbca9d87bff5fe',1,'XLabs.Forms.XFormsAppDroid.XFormsAppDroid()'],['../class_x_labs_1_1_forms_1_1_x_forms_app_droid.html#a6687fae3cf14f9ab8448da571f1b2f9f',1,'XLabs.Forms.XFormsAppDroid.XFormsAppDroid(XFormsApplicationDroid app)']]],
+  ['xformsappios',['XFormsAppiOS',['../class_x_labs_1_1_forms_1_1_x_forms_appi_o_s.html#a71e097e833740727d11863f3385cf548',1,'XLabs.Forms.XFormsAppiOS.XFormsAppiOS()'],['../class_x_labs_1_1_forms_1_1_x_forms_appi_o_s.html#af0d22a0a3cb4dbfc00cf559b4d207428',1,'XLabs.Forms.XFormsAppiOS.XFormsAppiOS(XFormsApplicationDelegate appDelegate)']]],
+  ['xformsappwin',['XFormsAppWin',['../class_x_labs_1_1_forms_1_1_x_forms_app_win.html#a6a02418a902b34b3878209bae494f896',1,'XLabs.Forms.XFormsAppWin.XFormsAppWin()'],['../class_x_labs_1_1_forms_1_1_x_forms_app_win.html#a088e5820a3bd5306fcd04923a4214e98',1,'XLabs.Forms.XFormsAppWin.XFormsAppWin(Application application)']]],
+  ['xformsappwp',['XFormsAppWP',['../class_x_labs_1_1_forms_1_1_x_forms_app_w_p.html#addfac5a62cecc0d8ae5ef5f68387b7c2',1,'XLabs.Forms.XFormsAppWP.XFormsAppWP()'],['../class_x_labs_1_1_forms_1_1_x_forms_app_w_p.html#a3b5a895cee84a9a3841fd7f9842542fc',1,'XLabs.Forms.XFormsAppWP.XFormsAppWP(Application application)']]],
+  ['xnamicrophone',['XnaMicrophone',['../class_x_labs_1_1_platform_1_1_services_1_1_media_1_1_xna_microphone.html#af96ecac99d0c8e8d37d9259f2f39bcb8',1,'XLabs::Platform::Services::Media::XnaMicrophone']]]
+];

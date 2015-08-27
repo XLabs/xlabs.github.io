@@ -1,0 +1,28 @@
+var class_x_labs_1_1_platform_1_1_device_1_1_apple_device =
+[
+    [ "AppleDevice", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#ad4d858ef8010a77a94f7bc459ab1655a", null ],
+    [ "LaunchUriAsync", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#aabb3ad459635c0580c113cf2b32dcda7", null ],
+    [ "PadExpression", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a0bf6abafffb64d46ef9a3aba90f9e134", null ],
+    [ "PhoneExpression", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#ad340f43ae0a9c387a86de50a4d9a3df3", null ],
+    [ "PodExpression", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a3ee15213bef216e6c5359ac209a07054", null ],
+    [ "Accelerometer", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#ac05c1d76e8c88ef5b3a11827d7d59815", null ],
+    [ "Battery", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#adea63e94561bf6d85f6cb4bda53f36b1", null ],
+    [ "BluetoothHub", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a2534b594d1e2108a6058c6456b9b0c67", null ],
+    [ "Display", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#aa424f6a8389a40a98f137922284ec7b9", null ],
+    [ "FileManager", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#ac1cd8c3fc149822629b1ffbcf5c2b114", null ],
+    [ "FirmwareVersion", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a1b4e3c6a81c39236f44e59359d002f4c", null ],
+    [ "Gyroscope", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a9232d694e7c76af738fe9d8e876932eb", null ],
+    [ "HardwareVersion", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a6b29e8bcdd79510bdc7d6a9b0c9af825", null ],
+    [ "Id", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a2edcb7ed913bb619a2c12274afc31ad5", null ],
+    [ "LanguageCode", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a49bf8ea0c314dba8f6c02f7a007b3423", null ],
+    [ "Manufacturer", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#aa99eae2e01592c96b9f900114011c31d", null ],
+    [ "MediaPicker", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a7ed24d6df1ca7e1cd5977bf4b9c10fd5", null ],
+    [ "Microphone", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a5fee9c9261e15dca3b8e6be8590b6644", null ],
+    [ "Name", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a0e1bc966a155962f9405c325a72fb65c", null ],
+    [ "Network", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a5d5593a91a98989c4a3c75bc30206515", null ],
+    [ "Orientation", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#aff5c7db08802040f8928e75bf44f68e2", null ],
+    [ "PhoneService", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#aa4b8dc13e3f7eaa9d96a7abb112a0c37", null ],
+    [ "TimeZone", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a18509eee67f870ed07849601539c7e0d", null ],
+    [ "TimeZoneOffset", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#aceae9b84dca8cebc021e1fe2361918e3", null ],
+    [ "TotalMemory", "class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a33ee44e7b52aba74dfb11bb8add7ec0c", null ]
+];

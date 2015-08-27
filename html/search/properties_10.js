@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['rangestate',['RangeState',['../class_x_labs_1_1_forms_1_1_controls_1_1_mono_droid_1_1_times_square_1_1_calendar_cell_view.html#ada86d90bd9fb4420a911231c835dc5e3',1,'XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarCellView.RangeState()'],['../class_x_labs_1_1_forms_1_1_controls_1_1_mono_droid_1_1_times_square_1_1_month_cell_descriptor.html#abc0bff51074eb37fd800c4321c87a6bf',1,'XLabs.Forms.Controls.MonoDroid.TimesSquare.MonthCellDescriptor.RangeState()']]],
+  ['reachabilitychanged',['ReachabilityChanged',['../class_x_labs_1_1_platform_1_1_services_1_1_network.html#a64dc221c4e0996534b86a6a32bd977e1',1,'XLabs::Platform::Services::Network']]],
+  ['readingavailable',['ReadingAvailable',['../class_x_labs_1_1_platform_1_1_device_1_1_accelerometer.html#a37bb7c3d6136cc9600bce87c4d52db12',1,'XLabs.Platform.Device.Accelerometer.ReadingAvailable()'],['../class_x_labs_1_1_platform_1_1_device_1_1_gyroscope.html#aa273c427c2d2959dce601c293bf1f747',1,'XLabs.Platform.Device.Gyroscope.ReadingAvailable()'],['../class_x_labs_1_1_platform_1_1_device_1_1_device_sensor.html#a9618eb777b6280ae6b9a9c33cf2240d1',1,'XLabs.Platform.Device.DeviceSensor.ReadingAvailable()']]],
+  ['regex',['Regex',['../class_x_labs_1_1_forms_1_1_validation_1_1_rule.html#ace14013cb80ef5f97ad547bdce14f8bc',1,'XLabs::Forms::Validation::Rule']]],
+  ['restart',['Restart',['../class_x_labs_1_1_forms_1_1_x_forms_application_droid.html#afd938909c827f53745c23d4793509c37',1,'XLabs::Forms::XFormsApplicationDroid']]],
+  ['resultcallback',['ResultCallback',['../class_x_labs_1_1_forms_1_1_validation_1_1_rule.html#a55fc0d87d71b30bb07e7752c805bf085',1,'XLabs::Forms::Validation::Rule']]],
+  ['resume',['Resume',['../class_x_labs_1_1_forms_1_1_x_forms_application_droid.html#a671e0b62fd81aa0dc48fb66ea372be80',1,'XLabs::Forms::XFormsApplicationDroid']]],
+  ['resumed',['Resumed',['../interface_x_labs_1_1_platform_1_1_mvvm_1_1_i_x_forms_app.html#a67f5be6dedfcca99e29bca66587799fa',1,'XLabs.Platform.Mvvm.IXFormsApp.Resumed()'],['../class_x_labs_1_1_platform_1_1_mvvm_1_1_x_forms_app.html#a8e2b03b48defd899466b3a270e4a89f6',1,'XLabs.Platform.Mvvm.XFormsApp.Resumed()']]],
+  ['rotation',['Rotation',['../interface_x_labs_1_1_platform_1_1_mvvm_1_1_i_x_forms_app.html#aa8a636f201be8a82b95eef44db88ac87',1,'XLabs.Platform.Mvvm.IXFormsApp.Rotation()'],['../class_x_labs_1_1_platform_1_1_mvvm_1_1_x_forms_app.html#a61ec7e80682ac4633de8491b8f2a6e97',1,'XLabs.Platform.Mvvm.XFormsApp.Rotation()']]],
+  ['rounded',['Rounded',['../class_x_labs_1_1_forms_1_1_controls_1_1_button_group.html#aa60f74e1043c558a6609895d088a5af9',1,'XLabs::Forms::Controls::ButtonGroup']]],
+  ['rowspacing',['RowSpacing',['../class_x_labs_1_1_forms_1_1_controls_1_1_grid_view.html#af02f481cc0c2c53b17a6a61e52162196',1,'XLabs.Forms.Controls.GridView.RowSpacing()'],['../class_x_labs_1_1_forms_1_1_controls_1_1_grid_collection_view.html#a87ca03f9f42dc6d1dc308d371f3a97a0',1,'XLabs.Forms.Controls.GridCollectionView.RowSpacing()']]],
+  ['rulename',['RuleName',['../class_x_labs_1_1_forms_1_1_validation_1_1_rule.html#a74e273451d8b6985fbc0a8032f2cfbca',1,'XLabs::Forms::Validation::Rule']]],
+  ['rules',['Rules',['../class_x_labs_1_1_forms_1_1_validation_1_1_rule_set.html#abff4bbd8a2bf7d200d135484b686de57',1,'XLabs::Forms::Validation::RuleSet']]]
+];

@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['gesturecommand',['GestureCommand',['../class_x_labs_1_1_forms_1_1_behaviors_1_1_gesture_interest.html#a8fc3b2b247f4d25fbafb3ec5b8305ebe',1,'XLabs::Forms::Behaviors::GestureInterest']]],
+  ['gestureparameter',['GestureParameter',['../class_x_labs_1_1_forms_1_1_behaviors_1_1_gesture_interest.html#a9574014e5e41ecf82857a4e965aa4985',1,'XLabs::Forms::Behaviors::GestureInterest']]],
+  ['gesturetype',['GestureType',['../class_x_labs_1_1_forms_1_1_behaviors_1_1_gesture_interest.html#a3f95589cf57465e6c7fd4bb8fe474017',1,'XLabs.Forms.Behaviors.GestureInterest.GestureType()'],['../class_x_labs_1_1_forms_1_1_behaviors_1_1_gesture_result.html#aac61f1a8edc176270a42569b8ccda2e9',1,'XLabs.Forms.Behaviors.GestureResult.GestureType()']]],
+  ['globalmediaelement',['GlobalMediaElement',['../class_x_labs_1_1_platform_1_1_services_1_1_media_1_1_sound_service.html#a62c526bfac9ff697321050f6902bd773',1,'XLabs::Platform::Services::Media::SoundService']]],
+  ['grid',['Grid',['../class_x_labs_1_1_forms_1_1_charting_1_1_controls_1_1_chart.html#a0d56dffa53d2e6feb8136715062889be',1,'XLabs::Forms::Charting::Controls::Chart']]],
+  ['gyroscope',['Gyroscope',['../interface_x_labs_1_1_platform_1_1_device_1_1_i_device.html#ae86b7f16fb795f86fb0d83a2483702f8',1,'XLabs.Platform.Device.IDevice.Gyroscope()'],['../class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a8834a46caa5096041ba77f01c969a5f5',1,'XLabs.Platform.Device.AndroidDevice.Gyroscope()'],['../class_x_labs_1_1_platform_1_1_device_1_1_apple_device.html#a9232d694e7c76af738fe9d8e876932eb',1,'XLabs.Platform.Device.AppleDevice.Gyroscope()'],['../class_x_labs_1_1_platform_1_1_device_1_1_windows_phone_device.html#a1a990255e5f7e7e9d2783b5f4da42967',1,'XLabs.Platform.Device.WindowsPhoneDevice.Gyroscope()'],['../class_x_labs_1_1_platform_1_1_device_1_1_wp81_device.html#a26813cfc931f5ce4f4e77a618ec67f69',1,'XLabs.Platform.Device.Wp81Device.Gyroscope()']]]
+];

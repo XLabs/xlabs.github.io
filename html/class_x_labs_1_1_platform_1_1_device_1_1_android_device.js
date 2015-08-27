@@ -1,0 +1,25 @@
+var class_x_labs_1_1_platform_1_1_device_1_1_android_device =
+[
+    [ "AndroidDevice", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#ad8317358ada9c574bbaef77791395a96", null ],
+    [ "LaunchUriAsync", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a7d08917e1c8208cabee7467834bea643", null ],
+    [ "Accelerometer", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a39290cd428dab7c7a9199ab3c8622e89", null ],
+    [ "Battery", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a60a53460d95259c953da5b9cc171eef9", null ],
+    [ "BluetoothHub", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a43a4f99c3534c9030424ef0f13adc132", null ],
+    [ "Display", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a855edad058dc5e05e23487a6043b6977", null ],
+    [ "FileManager", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a4be004526ef27f8324af6979dc1c5d89", null ],
+    [ "FirmwareVersion", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a578d1a2ab00f399a03227628eea87d9b", null ],
+    [ "Gyroscope", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a8834a46caa5096041ba77f01c969a5f5", null ],
+    [ "HardwareVersion", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a78fc5a60d111b36e62e32185d5745215", null ],
+    [ "Id", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#ab5ad5ae569015959097dbc49f85d728e", null ],
+    [ "LanguageCode", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a2cbe9afcf02e670c077d1ba3a6358721", null ],
+    [ "Manufacturer", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a24f9323add70dfd53ceeabda4a6800dd", null ],
+    [ "MediaPicker", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a849857d5137dba1a2dfcd22ae1c7cfa6", null ],
+    [ "Microphone", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a825331874c9a07f4ce53dfc8d662fe6e", null ],
+    [ "Name", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#aa77f5680a6597973f6bc0a7b863ae427", null ],
+    [ "Network", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#aa740bb24d6c152c1c818c4125f00f256", null ],
+    [ "Orientation", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a9ef5f9ddc2ca92db7ab12f863a702887", null ],
+    [ "PhoneService", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a50ae5fe83de41738e4672240da064a70", null ],
+    [ "TimeZone", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a96891623876fb9d783dd1e2ac0c7cb9e", null ],
+    [ "TimeZoneOffset", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#ac7a308fb333bd8c947769e9425c283c4", null ],
+    [ "TotalMemory", "class_x_labs_1_1_platform_1_1_device_1_1_android_device.html#a32390b97ec363bcd15478f258a9094f3", null ]
+];
